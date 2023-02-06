@@ -1,0 +1,19 @@
+@font-face {
+    font-family: SF-Pro-Display-Regular;
+    src: url("/assets/fonts/SFProDisplay-Regular.ttf");
+}
+
+@font-face {
+    font-family: SF-Pro-Display-Bold;
+    src: url("/assets/fonts/SFProDisplay-Bold.ttf");
+}
+
+@font-face {
+    font-family: SF-Pro-Display-Heavy;
+    src: url("/assets/fonts/SFProDisplay-Heavy.ttf");
+}
+
+@font-face {
+    font-family: SF-Pro-Display-Light;
+    src: url("/assets/fonts/SFProDisplay-Light.ttf");
+}
